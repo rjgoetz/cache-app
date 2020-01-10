@@ -1,0 +1,10 @@
+@import '~../styles/variables';
+
+.button {
+  background: linear-gradient($yellow, $gold);
+  border: 1px solid $gold;
+  border-radius: 5px;
+  font-size: 0.75rem;
+  padding: 0.33rem;
+  width: 100%;
+}
